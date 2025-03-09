@@ -1,0 +1,1042 @@
+[
+  {
+    "description": "750 ml  BT",
+    "bag": 40,
+    "date": "2025-02-14"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 20,
+    "date": "2025-02-14"
+  },
+  {
+    "description": "500 ml MT",
+    "bag": 18,
+    "date": "2025-02-27"
+  },
+  {
+    "description": "250 ml BT",
+    "bag": 16,
+    "date": "2025-02-20"
+  },
+  {
+    "description": "500 ml MT",
+    "bag": 14,
+    "date": "2025-03-03"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 10,
+    "date": "2025-02-18"
+  },
+  {
+    "description": "750 ml BT",
+    "bag": 10,
+    "date": "2025-02-18"
+  },
+  {
+    "description": "500 ml MT",
+    "bag": 10,
+    "date": "2025-02-18"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 10,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 10,
+    "date": "2025-02-10"
+  },
+  {
+    "description": "500 ml TT",
+    "bag": 10,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 10,
+    "date": "2025-02-04"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 10,
+    "date": "2025-02-04"
+  },
+  {
+    "description": "250 ml BT",
+    "bag": 10,
+    "date": "2025-02-03"
+  },
+  {
+    "description": "500 ml TT",
+    "bag": 10,
+    "date": "2025-02-22"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 10,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "250 ml BT",
+    "bag": 10,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "750 ml  BT",
+    "bag": 10,
+    "date": "2025-03-03"
+  },
+  {
+    "description": "250 ml W",
+    "bag": 9,
+    "date": "2023-12-02"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 8,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 8,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "750 ml BT",
+    "bag": 8,
+    "date": "2025-02-05"
+  },
+  {
+    "description": "250 ml W",
+    "bag": 8,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 8,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 8,
+    "date": "2023-12-02"
+  },
+  {
+    "description": "250 ml W",
+    "bag": 8,
+    "date": "2025-03-03"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 7,
+    "date": "2025-02-20"
+  },
+  {
+    "description": "500 ml MT",
+    "bag": 7,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 6,
+    "date": "2025-02-20"
+  },
+  {
+    "description": "250 ml MT",
+    "bag": 6,
+    "date": "2025-02-18"
+  },
+  {
+    "description": "250 ml W",
+    "bag": 6,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "500 ml MT",
+    "bag": 6,
+    "date": "2025-02-11"
+  },
+  {
+    "description": "300 ml MT",
+    "bag": 6,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "250 ml MT",
+    "bag": 6,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "300 ml MT",
+    "bag": 6,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "250 ml W",
+    "bag": 6,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "500 ml W",
+    "bag": 6,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "500ML  LID",
+    "bag": 6,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "500 ml  LID",
+    "bag": 6,
+    "date": "2023-12-02"
+  },
+  {
+    "description": "500 ml W",
+    "bag": 6,
+    "date": "2023-12-02"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 6,
+    "date": "2025-03-03"
+  },
+  {
+    "description": "250 ml MT",
+    "bag": 6,
+    "date": "2025-03-03"
+  },
+  {
+    "description": "500 ml W",
+    "bag": 6,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "300 ml MT",
+    "bag": 5,
+    "date": "2025-02-18"
+  },
+  {
+    "description": "500 ml MT",
+    "bag": 5,
+    "date": "2025-02-18"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 5,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "500 ml W",
+    "bag": 5,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "1000 ml W",
+    "bag": 5,
+    "date": "2025-02-15"
+  },
+  {
+    "description": "300 ml MT",
+    "bag": 5,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "500 ml MT",
+    "bag": 5,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 5,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "500 ml W",
+    "bag": 5,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "250 ml BT",
+    "bag": 5,
+    "date": "2025-02-04"
+  },
+  {
+    "description": "300 ml W",
+    "bag": 5,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "400 ml MT",
+    "bag": 5,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "750 ml MT",
+    "bag": 5,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "250 ml W",
+    "bag": 5,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "750 ml BT",
+    "bag": 5,
+    "date": "2025-03-03"
+  },
+  {
+    "description": "300 ml MT",
+    "bag": 5,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "500 ml MT",
+    "bag": 5,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 5,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "500 ml W",
+    "bag": 4,
+    "date": "2025-02-15"
+  },
+  {
+    "description": "500 ml W",
+    "bag": 4,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "400 ml MT",
+    "bag": 4,
+    "date": "2025-02-11"
+  },
+  {
+    "description": "1000 ml BT",
+    "bag": 4,
+    "date": "2025-02-04"
+  },
+  {
+    "description": "500 ml MT",
+    "bag": 4,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 4,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "500 ml TT",
+    "bag": 4,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 4,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 4,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "400 ml BT",
+    "bag": 4,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "500 ml W",
+    "bag": 4,
+    "date": "2025-02-27"
+  },
+  {
+    "description": "1000 ml W",
+    "bag": 4,
+    "date": "2025-02-28"
+  },
+  {
+    "description": "400 ml W",
+    "bag": 4,
+    "date": "2025-02-28"
+  },
+  {
+    "description": "500 ml MT",
+    "bag": 4,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "500 ml W",
+    "bag": 4,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "500 ml MT",
+    "bag": 4,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "500 ml W",
+    "bag": 4,
+    "date": "2025-03-02"
+  },
+  {
+    "description": "300 ml W",
+    "bag": 4,
+    "date": "2023-12-02"
+  },
+  {
+    "description": "1000 ml W",
+    "bag": 4,
+    "date": "2023-12-02"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 4,
+    "date": "2025-03-03"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 4,
+    "date": "2025-03-03"
+  },
+  {
+    "description": "750 ml BT",
+    "bag": 4,
+    "date": "2025-03-06"
+  },
+  {
+    "description": "250 ml W",
+    "bag": 4,
+    "date": "2025-03-06"
+  },
+  {
+    "description": "150 ml W",
+    "bag": 4,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "250 ml BT",
+    "bag": 4,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "150 ml MT",
+    "bag": 3,
+    "date": "2025-02-17"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 3,
+    "date": "2025-02-18"
+  },
+  {
+    "description": "150 ml W",
+    "bag": 3,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "250 ml W",
+    "bag": 3,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "300 ml W",
+    "bag": 3,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "400 ml BT",
+    "bag": 3,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "400 ml W",
+    "bag": 3,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 3,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "300 ml W",
+    "bag": 3,
+    "date": "2025-02-15"
+  },
+  {
+    "description": "750 ml W",
+    "bag": 3,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "750 ml BT",
+    "bag": 3,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "750 ml MT",
+    "bag": 3,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 3,
+    "date": "2025-02-10"
+  },
+  {
+    "description": "500 ml MT",
+    "bag": 3,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "600 ml MT",
+    "bag": 3,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "400 ml W",
+    "bag": 3,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "500 ml W",
+    "bag": 3,
+    "date": "2025-02-04"
+  },
+  {
+    "description": "300 ml W",
+    "bag": 3,
+    "date": "2025-02-04"
+  },
+  {
+    "description": "500 ml W",
+    "bag": 3,
+    "date": "2025-02-04"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 3,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "750 ml  BT",
+    "bag": 3,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "250 ml BT",
+    "bag": 3,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "400 ml BT",
+    "bag": 3,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "500 ml W",
+    "bag": 3,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 3,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "1000 ml W",
+    "bag": 3,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "500 ml MT",
+    "bag": 3,
+    "date": "2025-02-22"
+  },
+  {
+    "description": "600 ml MT",
+    "bag": 3,
+    "date": "2025-02-22"
+  },
+  {
+    "description": "300 ml W",
+    "bag": 3,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 3,
+    "date": "2025-02-27"
+  },
+  {
+    "description": "150 ml W",
+    "bag": 3,
+    "date": "2023-12-02"
+  },
+  {
+    "description": "750 ml W",
+    "bag": 3,
+    "date": "2025-03-03"
+  },
+  {
+    "description": "300 ml W",
+    "bag": 3,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "750 ml W",
+    "bag": 3,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "750 ml BT",
+    "bag": 3,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "250 ml BT",
+    "bag": 3,
+    "date": "2025-03-10"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 3,
+    "date": "2025-03-10"
+  },
+  {
+    "description": "250 ml BT",
+    "bag": 2,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "1000 ml BT",
+    "bag": 2,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 2,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "250 ml W",
+    "bag": 2,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "600 ml BT",
+    "bag": 2,
+    "date": "2025-02-15"
+  },
+  {
+    "description": "250 ml BT",
+    "bag": 2,
+    "date": "2025-02-15"
+  },
+  {
+    "description": "750 ml W",
+    "bag": 2,
+    "date": "2025-02-14"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 2,
+    "date": "2025-01-12"
+  },
+  {
+    "description": "300 ml W",
+    "bag": 2,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "1000 ml W",
+    "bag": 2,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "1000 ml BT",
+    "bag": 2,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "150 ml W",
+    "bag": 2,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "300 ml MT",
+    "bag": 2,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "300 ml MT",
+    "bag": 2,
+    "date": "2025-02-11"
+  },
+  {
+    "description": "150 ml BT",
+    "bag": 2,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 2,
+    "date": "2025-02-12"
+  },
+  {
+    "description": "400 ml BT",
+    "bag": 2,
+    "date": "2025-02-10"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 2,
+    "date": "2025-02-10"
+  },
+  {
+    "description": "750 ml BT",
+    "bag": 2,
+    "date": "2025-02-10"
+  },
+  {
+    "description": "150 ml MT",
+    "bag": 2,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "250 ml MT",
+    "bag": 2,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "400 ml MT",
+    "bag": 2,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 2,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "300 ml W",
+    "bag": 2,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "400 ml BT",
+    "bag": 2,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "750 ml W",
+    "bag": 2,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "1000 ml BT",
+    "bag": 2,
+    "date": "2025-02-06"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 2,
+    "date": "2025-02-03"
+  },
+  {
+    "description": "1000 ml MT",
+    "bag": 2,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "1000 ml BT",
+    "bag": 2,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "750 ml  MT",
+    "bag": 2,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "400 ml W",
+    "bag": 2,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "750 ml W",
+    "bag": 2,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "150 ml MT",
+    "bag": 2,
+    "date": "2025-02-22"
+  },
+  {
+    "description": "250 ml MT",
+    "bag": 2,
+    "date": "2025-02-22"
+  },
+  {
+    "description": "400 ml MT",
+    "bag": 2,
+    "date": "2025-02-22"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 2,
+    "date": "2025-02-22"
+  },
+  {
+    "description": "150 ml MT",
+    "bag": 2,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "400 ml BT",
+    "bag": 2,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "250 ml BT",
+    "bag": 2,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "400 ml W",
+    "bag": 2,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "750 ml W",
+    "bag": 2,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 2,
+    "date": "2025-02-27"
+  },
+  {
+    "description": "750 ml BT",
+    "bag": 2,
+    "date": "2025-02-27"
+  },
+  {
+    "description": "1000 ml BT",
+    "bag": 2,
+    "date": "2025-02-27"
+  },
+  {
+    "description": "1000 ml MT",
+    "bag": 2,
+    "date": "2025-02-27"
+  },
+  {
+    "description": "400 ml MT",
+    "bag": 2,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "1000 ml MT",
+    "bag": 2,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "750 ml MT",
+    "bag": 2,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "250 ml BT",
+    "bag": 2,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 2,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 2,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "750 ml W",
+    "bag": 2,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "750 ml BT",
+    "bag": 2,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "600 ml BT",
+    "bag": 2,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "250 ml W",
+    "bag": 2,
+    "date": "2025-03-02"
+  },
+  {
+    "description": "1000 ml W",
+    "bag": 2,
+    "date": "2025-03-02"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 2,
+    "date": "2023-12-02"
+  },
+  {
+    "description": "400 ml W",
+    "bag": 2,
+    "date": "2025-03-03"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 2,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "400 ml BT",
+    "bag": 2,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "1000 ml W",
+    "bag": 2,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 2,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "250 ml MT",
+    "bag": 2,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 2,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 2,
+    "date": "2025-03-10"
+  },
+  {
+    "description": "1000 ml BT",
+    "bag": 1,
+    "date": "2025-02-18"
+  },
+  {
+    "description": "750 ml BT",
+    "bag": 1,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "750 ml W",
+    "bag": 1,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "600 ml BT",
+    "bag": 1,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "1000 ml W",
+    "bag": 1,
+    "date": "2025-02-16"
+  },
+  {
+    "description": "300 ml BT",
+    "bag": 1,
+    "date": "2025-02-10"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 1,
+    "date": "2025-02-10"
+  },
+  {
+    "description": "250 ml W",
+    "bag": 1,
+    "date": "2025-02-04"
+  },
+  {
+    "description": "600 ml BT",
+    "bag": 1,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "750 ml W",
+    "bag": 1,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "750 ml BT",
+    "bag": 1,
+    "date": "2025-02-02"
+  },
+  {
+    "description": "150 ml W",
+    "bag": 1,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "1000 ml W",
+    "bag": 1,
+    "date": "2025-02-26"
+  },
+  {
+    "description": "500 ml BT",
+    "bag": 1,
+    "date": "2025-02-27"
+  },
+  {
+    "description": "1000 ml W",
+    "bag": 1,
+    "date": "2025-02-27"
+  },
+  {
+    "description": "400 ml BT",
+    "bag": 1,
+    "date": "2025-03-01"
+  },
+  {
+    "description": "250 ml BT",
+    "bag": 1,
+    "date": "2023-12-02"
+  },
+  {
+    "description": "750 ml BT",
+    "bag": 1,
+    "date": "2025-03-07"
+  },
+  {
+    "description": "1000 ml BT",
+    "bag": 1,
+    "date": "2025-03-10"
+  }
+]
